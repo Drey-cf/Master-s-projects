@@ -1,0 +1,9 @@
+*.yuv
+*.y4m
+*.png
+.ipynb_checkpoints/
+__pycache__/
+venv/
+txt.txt
+kodak_images.txt
+path_de_todos_os_lfs_decodados.txt
